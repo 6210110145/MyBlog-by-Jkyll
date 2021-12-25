@@ -4,8 +4,8 @@ title: "การทำข้าวผัดไข่"
 data: 2021-12-21 10:14:00 +0700
 categories: general
 ---
-[![93bd13180dbdba56bceda1b7a32b6dbc.md.jpg](https://www.img.in.th/images/93bd13180dbdba56bceda1b7a32b6dbc.md.jpg)](https://www.img.in.th/image/w7CqeT)
-
+[![93bd13180dbdba56bceda1b7a32b6dbc.md.jpg](https://www.img.in.th/images/93bd13180dbdba56bceda1b7a32b6dbc.md.jpg)](https://www.img.in.th/image/w7CqeT) 
+>ข้าวผัดไข่
 
 #### ส่วนผสม
 - กระเทียมสับ
@@ -28,7 +28,7 @@ categories: general
 
 
 
-**เคล็ดลับ**
+**\*เคล็ดลับ\***
 
 **ไม่ควรใช้ข้าวที่หุงสุกใหม่ๆ เพราะจะทำให้ข้าวผัดแฉะ ไม่เรียงเม็ด**
 
